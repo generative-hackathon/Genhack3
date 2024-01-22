@@ -7,7 +7,6 @@ Changes in the climate can be seen in episodes of heavy rainfall, drought, and t
 
 **The purpose of this challenge is to build a spatial generator of annual maize yield.**
 
-
 This repository contains the files required in the GenHack3 challenge. It contains:
 
 - `data/`: folder containing the training data (`station49.csv`, `station80.csv`, `station40.csv`, `station63.csv`) and a noise file (` noise.npy`)
